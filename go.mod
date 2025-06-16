@@ -1,6 +1,6 @@
 module zgo.at/goatcounter/v2
 
-go 1.24.4
+go 1.22
 
 require (
 	code.soquee.net/otp v0.0.4
