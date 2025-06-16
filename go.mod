@@ -20,9 +20,9 @@ require (
 	github.com/teamwork/reload v1.4.2
 	golang.org/x/crypto v0.39.0
 	golang.org/x/image v0.27.0
-	golang.org/x/net v0.41.0
+	golang.org/x/net v0.17.0
 	golang.org/x/sync v0.15.0
-	golang.org/x/text v0.26.0
+	golang.org/x/text v0.17.0
 	zgo.at/bgrun v0.0.0-00010101000000-000000000000
 	zgo.at/blackmail v0.0.0-20241118175226-9a8f9442bb0d
 	zgo.at/errors v1.4.0
